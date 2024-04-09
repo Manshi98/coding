@@ -1,0 +1,15 @@
+.flex{
+    display: flex;
+    background-color: red;
+    flex-direction: row;
+}
+.item{
+    background-color: yellow;
+    flex-flow: row;
+    padding: 30px;
+    margin: 20px;
+    font-size: 30px;
+    width: 20px;
+    height: 29px;
+    align-items: center;
+}
